@@ -1,0 +1,10 @@
+# https://ne-on.org/
+
+parameters:
+    level: max
+    memory-limit: 4G
+    tmpDir: ./build
+
+    excludes_analyse:
+        - %rootDir%/../../../vendor/*
+        - %rootDir%/../../../library/Zend/Service/*
