@@ -111,7 +111,7 @@
 <?php // Links in einem View Skript setzen:
 $this->headLink()->appendStylesheet('/styles/basic.css')
                  ->headLink(array('rel' => 'favicon',
-                                  'href' => '/img/favicon.ico'),
+                                  'href' => '/ico/favicon.ico'),
                                   'PREPEND')
                  ->prependStylesheet('/styles/moz.css',
                                      'screen',
