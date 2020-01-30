@@ -10,7 +10,8 @@
     "license": "BSD-3-Clause",
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.2.11"
+        "php": ">=5.2.11",
+      "ext-mbstring": "*"
     },
     "autoload": {
         "classmap": [
