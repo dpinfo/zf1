@@ -41,11 +41,6 @@ require_once 'Zend/Gdata/Analytics/Extension/Metric.php';
 require_once 'Zend/Gdata/Analytics/Extension/Property.php';
 
 /**
- * @see Zend_Gdata_Analytics_Extension_Goal
- */
-require_once 'Zend/Gdata/Analytics/Extension/Goal.php';
-
-/**
  * @see Zend_Gdata_Analytics_Extension_TableId
  */
 require_once 'Zend/Gdata/Analytics/Extension/TableId.php';
