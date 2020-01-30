@@ -194,4 +194,5 @@ class Zend_Registry extends ArrayObject
     {
         parent::__construct($array, $flags);
     }
+
 }
